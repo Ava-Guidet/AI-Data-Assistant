@@ -1,6 +1,6 @@
-# AI Data Assistant
+# Data Assistant
 
-AI-powered data assistant that cleans, analyzes, and generates insights from messy business data using Python.
+Data assistant that cleans, analyzes, and generates insights from messy business data using Python.
 
 ## Overview
 This project simulates a business data assistant that helps clean datasets, summarize them, and generate useful insights.
@@ -15,7 +15,6 @@ This project simulates a business data assistant that helps clean datasets, summ
 ## Tech Stack
 - Python
 - pandas
-- NumPy
 
 ## How It Works
 1. Load a CSV dataset  
@@ -27,7 +26,7 @@ This project simulates a business data assistant that helps clean datasets, summ
 3. The assistant processes the data and returns results  
 
 ## Project Structure
-ai-data-assistant/
+data-assistant/
 - app.py
 - data_cleaner.py
 - insights.py
@@ -43,7 +42,7 @@ python app.py
 
 ## Future Improvements
 - Add web interface (Streamlit)
-- Improve AI-generated insights
+- Improve insights
 - Add charts and visualizations
 
 ## Author
